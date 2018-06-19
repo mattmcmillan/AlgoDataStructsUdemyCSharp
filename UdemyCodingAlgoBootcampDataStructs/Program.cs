@@ -16,6 +16,8 @@ namespace UdemyCodingAlgoBootcampDataStructs
 
             int[] arrayToChunk = new int[] { 5, 1, 2, 77, 8, 9, 44, 33, 65, 72, 21 };
             ArrayChunk.ChunkArray(arrayToChunk, 3);
+
+            Anagram.isAnagram("Pl (@@@&ingoll    l", "lLPl  '#!IGlNO");
         }
 
     }
